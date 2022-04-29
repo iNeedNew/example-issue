@@ -10,3 +10,4 @@ class Post:
 
     def get_posts():
         return [Post, Post, Post]
+
