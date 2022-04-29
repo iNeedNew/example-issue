@@ -4,10 +4,3 @@ class Post:
         self.title = title
         self.content = content
         self.user_id = user_id
-
-    def get_post():
-        return 'post1'
-
-    def get_posts():
-        return [Post, Post, Post]
-
