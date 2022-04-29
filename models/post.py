@@ -9,4 +9,4 @@ class Post:
         return 'post1'
 
     def get_posts():
-        return ['post1', 'post2', 'post3']
+        return [Post, Post, Post]
